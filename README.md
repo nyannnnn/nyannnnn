@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about combinatorics and AI
 - 🌱 I’m currently studying mathematics at the University of Waterloo
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me - PM me on github!
+- 📫 How to reach me - Ming Luo @LinkedIn
 
 <!---
 nyannnnn/nyannnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
