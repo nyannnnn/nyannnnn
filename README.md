@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nyannnnn
-- 👀 I’m interested in doing nothing and complain about life
-- 🌱 I’m currently learning how to life
-- 💞️ I’m looking to collaborate on life
-- 📫 How to reach me - find me
+- 👀 I’m interested in learning more about combinatorics and AI
+- 🌱 I’m currently studying mathematics at the University of Waterloo
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me - PM me on github!
 
 <!---
 nyannnnn/nyannnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
